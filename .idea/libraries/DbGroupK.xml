@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="DbGroupK">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/DbGroupK.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
